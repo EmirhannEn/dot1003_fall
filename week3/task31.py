@@ -1,0 +1,9 @@
+my_list=[]
+my_list.append("elma")
+my_list.append("armut")
+my_list.append("çilek")
+print(my_list)
+print(my_list[0])
+print(len(my_list))
+my_list.remove(my_list[1])
+print(my_list)

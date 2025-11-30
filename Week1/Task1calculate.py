@@ -1,0 +1,6 @@
+print("hours in a week:")
+print(24*7)
+print("munites in a week:")
+print(60*24*7)
+print("seconds in a week:")
+print(60*60*24*7)
