@@ -14,9 +14,6 @@ while başlat:
         print(f"{basson}{sayi * büyüktür}{name}{sayi * küçüktür}{basson}")
         print(f"{üstalt*20}")
         başlat=False
-    
-
-
 
 
 
